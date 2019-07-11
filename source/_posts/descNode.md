@@ -54,10 +54,3 @@ public Node findDescEle(Node head, int k) {
 ```
 ## 总结
 查找链表倒数第n个元素，复杂度为o(n),使用两个指针即可简单实现。
-
-
-
-
-> 博客搬家，请访问新博客地址吧! [我的博客][1]
-
-[1]: https://www.duduhuahua.cn
