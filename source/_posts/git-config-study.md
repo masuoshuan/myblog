@@ -76,3 +76,5 @@ categories: 学习笔记
 6. 合并操作
 	- 解决冲突后/获取远程最新代码后合并代码：`git merge branchname`
 	- 保留该存在版本合并log：`git merge --no-ff branchname` 参数`--no-ff`防止 fast-forward 的提交
+
+7.
